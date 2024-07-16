@@ -1,0 +1,12 @@
+PETSTORE_URL:
+        url: "https://petstore.swagger.io/v2"
+        uri: "https://petstore.swagger.io/v2/pet/findByStatus?"
+        pet_id_uri: "https://petstore.swagger.io/v2/pet/"
+
+ADD_PET_INFO:
+        uri: "https://petstore.swagger.io/v2/pet/"
+
+API_DATA:
+        header_details: "application/json"
+        json_path: "D:/Swagger_Petstore_API/test_data/pet_info.json"
+        json_path2: "D:/Swagger_Petstore_API/test_data/pet_info2.json"
